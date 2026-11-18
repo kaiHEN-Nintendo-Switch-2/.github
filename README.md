@@ -1,5 +1,5 @@
 
-# Atmosphère — Nintendo Switch Custom Firmware
+# kaiHEN — Nintendo Switch2 Custom Firmware
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Nintendo%20Switch-blue?style=for-the-badge" alt="Nintendo Switch"/>
